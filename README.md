@@ -1,1 +1,2 @@
 # SQL-INJECTION-CHECKER
+The SQL-Injection-Checker is a web-based tool built using Flask and a responsive HTML frontend that identifies potential SQL injection vulnerabilities in web applications. Users can input a website URL, and the tool analyzes text input fields by testing them with predefined SQL injection payloads. It provides simulated results for each payload, helping developers identify weak points in their application security. This tool is designed for educational and authorized testing purposes only.
